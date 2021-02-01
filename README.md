@@ -1,4 +1,3 @@
 # api_example
 
-
-Hello from VSCode!
+Hello Mason!
