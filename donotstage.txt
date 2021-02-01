@@ -1,0 +1,45 @@
+Downloaded git
+Downloaded vscode
+Downloaded Nodejs
+Downloaded notepad++
+
+Signed up for Github
+
+Notes about git
+	git is a repo (repository) aka a place to put code
+	commits are changes
+	
+
+Notes about git bash
+	git bash is a terminal that was downloaded with git
+	bash is a more robust and useful tool than windows command line
+	bash commands are also the same between linux and mac
+	commands can take arguments and/or flags
+	
+	pwd: print working directory (where am i)
+	ls: list (what's here)
+	mkdir: make a directory
+	clear: clear the screen
+	cd: change directory
+	git clone: download our code from github
+	rm: remove (delete)
+	
+Notes about git
+	clone: downloads the repo from the internet
+	status: what do I have changed, saved, staged
+	commit: saves our work
+	push: sends it to internet
+	
+
+We created a repo in Github
+We cloned the repo locally
+
+We made local changes
+We staged our local changes    						$ git add README.md
+We committed our changes							$ git commit -m "Changed README.md"
+We pushed our changes to the remote repository 		$ git push
+
+https://github.com/RoboClam/api_example.git
+
+dakotasamhan@gmail.com
+m.samhan007@gmail.com
