@@ -1,0 +1,7 @@
+We worked with the which command
+    shows us if we have a program installed and it's location
+
+We worked through environment issues related to environment PATH 
+    PATH is how our computer knows what special commands we want to use (because it can find them)
+
+We looked at python resources at https://wiki.python.org/moin/BeginnersGuide/NonProgrammers
