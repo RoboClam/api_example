@@ -5,3 +5,25 @@ We worked through environment issues related to environment PATH
     PATH is how our computer knows what special commands we want to use (because it can find them)
 
 We looked at python resources at https://wiki.python.org/moin/BeginnersGuide/NonProgrammers
+
+
+Keywords
+    specific words reserved by the language or system for functionality
+    if
+    for
+    =
+    def
+
+Syntax
+    how our keywords and symbols have to be ordered
+
+Began going over function definitions and if statements
+
+Comments
+    started with #
+    can be anything to write to ourselves
+    little sticky notes of information that is not code
+
+
+Block of code  
+    in python, they are shown/organized with tabs aka the actual tab button
