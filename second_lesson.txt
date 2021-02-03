@@ -13,6 +13,7 @@ Keywords
     for
     =
     def
+    return
 
 Syntax
     how our keywords and symbols have to be ordered
